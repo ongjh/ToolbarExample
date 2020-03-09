@@ -14,4 +14,16 @@
             android:id="@+id/action_settings"
             android:title="@string/action_settings"
             app:showAsAction="never"/>
+        <item
+            android:id="@+id/action_one"
+            android:title="one"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/action_two"
+            android:title="two"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/action_three"
+            android:title="three"
+            app:showAsAction="never"/>
 </menu>
